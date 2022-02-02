@@ -5,11 +5,13 @@
 
 Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.
 
+- Submissions, Contributions, and Accounts
 - New, Banned, Unverified Accounts Analysis
 - Same and Repeated Texts Analysis
 - NLP, wordclouds, negative texts and accounts
 - Upscore/Downscore Ratios for banned, new, unverified account layers
 - Top contributing accounts and banned accounts
+- Accounts and same texts posting within seconds/multiple subreddits analysis
 - Timelines, peaks, anomalies
 
 5,025 banned Reddit Accounts are the top contributors
