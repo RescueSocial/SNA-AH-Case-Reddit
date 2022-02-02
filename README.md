@@ -4,14 +4,14 @@
 ![alt text](https://cutt.us/qrcoder.php?size=180&qr=https://cutt.us/AH_reddit)
 
 Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.
-5,025 Banned Reddit Accounts are the highest amount of contributors
+5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations
 
-- Submissions, Contributions, and Accounts
 - New, Banned, Unverified Accounts Analysis
 - Same and Repeated Texts Analysis
 - NLP, wordclouds, negative texts and accounts
 - Upscore/Downscore Ratios for banned, new, unverified account layers
 - Top contributing accounts and banned accounts
 - Accounts and same texts posting within seconds/multiple subreddits analysis
-- Timelines, peaks, anomalies
+- Timelines, peaks, anomalies 
+- Submissions, contributions, and accounts analysis
 
