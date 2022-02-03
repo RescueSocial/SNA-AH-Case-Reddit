@@ -82,15 +82,15 @@ The percentage of 2020 contributions made by Banned accounts    8%
 <br>This user's contributions got the lowest scores.
 <br>Lucaswebb (unverified) 
 <br>This user's contributions got the highest scores.
-<br>Statistics over years.
+
+Statistics over years.
 <br>57.2% of 2020 contributions were made by newly created accounts (2018-2020).
 <br>88% of 2020 submissions were made by newly created accounts (2018-2020).
 <br>35% of the peak day contributions (04/02/2020) were made by newly created accounts (2018-2020).
 <br>65% of the peak day submissions (04/02/2020) were made by newly created accounts (2018-2020)
 
-
 #### <b>Overview - 2021</b>
-<br>About 20% of 2021 submissions were made by banned and unverified accounts.
+About 20% of 2021 submissions were made by banned and unverified accounts.
 
 The percentage of 2021 contributions made by Banned accounts 7.23% 
 <br>Total banned accounts contributions in 2021 is 1323.
@@ -116,9 +116,7 @@ Statistics over years.
 
 
 ### <b>Overview - 2018</b>
-<br>28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
-<br>21.45% of submissions of the peak day submissions (03/07/2018 ) were made by banned accounts ( 15.3 % → 305  ). unverified accounts ( 6.15 % → 123  ).
-<br>The percentage of 2018 contributions made by Unverified accounts  11.3%
+The percentage of 2018 contributions made by Unverified accounts  11.3%
 <br>Total unverified accounts contributions in 2018:  789.
 <br>Total unverified accounts comments in 2018: 566.
 <br>Number of contributed users is  275.
@@ -129,6 +127,9 @@ The percentage of 2018 contributions made by Banned accounts  8.38%
 <br>Total banned accounts comments in 2018 is  281.
 <br>The percentage % of 2018 submissions made by Banned accounts  15.3%.
 <br>Total banned accounts submissions in 2018   305
+
+28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
+<br>21.45% of submissions of the peak day submissions (03/07/2018 ) were made by banned accounts ( 15.3 % → 305  ). unverified accounts ( 6.15 % → 123  ).
 
 <b>Top users statistics 2018:</b>
 <br>Fakeposter77 (banned): 
