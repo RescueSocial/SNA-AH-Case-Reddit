@@ -37,7 +37,7 @@ Newly created accounts in 2018, 2019, 2020, 2021
 - Submissions, contributions, and accounts analysis
 
 These are high volume operations, so these are merely some examples. Images and Highlights provide more, e.g., the November 2020 peak from mostly 2011 accounts, whereas, the Februrary 2020 peak is mostly from newly created accounts. Contrast this with the other platforms and their statistics.
-#### <b>Examples from Overviews of Yearly Reports - <i>See Report PDFs for full reports, graphs, and analysis.</i></b>
+#### <b>Examples from Overviews of Yearly Reports - <i>See Report PDFs and Python Notebooks for full reports, graphs, and analysis.</i></b>
 
 <b>Overview - 2019 Reddit</b> 
 
