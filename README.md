@@ -4,8 +4,8 @@
 ![alt text](https://cutt.us/qrcoder.php?size=180&qr=https://cutt.us/AH_reddit)
 
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
-- It's important to look at Reddit in the context of cross-platform operations and comparing e.g., ages of accounts during peaks.
-- Reddit Reports per year for 2018-2021 and a User Report.
+- It's important to look at Reddit in the context of cross-platform operations and comparing e.g., ages of accounts during peaks, NLP, statistical differences or similarities, timelines, and amplifications.
+- Reddit Reports per year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. 
 
@@ -18,7 +18,8 @@
 <br>4. Daily creation data (# of accounts created per day from 2006 to 2020).
 <br><i>The data Timezone is Epoch/UTC.</i>
 
-<i>Notes:</i> Reddit began to achieve a notable level of popularity in mid-2010, and it has expanded its reach since. It had become “really popular” in early 2013. Reddit was launched in June 2005. The effect of 2020 is obvious, but we can see a small effect from 2021 as the data collected till May of this 2021.
+<i>Notes:</i> Reddit began to achieve a notable level of popularity in mid-2010, and it has expanded its reach since. It had become “really popular” in early 2013. Reddit was launched in June 2005. 
+<br>The effect of 2020 is obvious, but we can see a small effect from 2021 as the data collected till May of this 2021.
 <br><i>Reddit does not remove contributions and submissions from banned accounts.</i>
 
 Newly created accounts in 2018, 2019, 2020, 2021
