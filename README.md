@@ -4,12 +4,13 @@
 ![alt text](https://cutt.us/qrcoder.php?size=180&qr=https://cutt.us/AH_reddit)
 
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
-- Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Reddit Reports per year for 2018-2021 and a User Report.
+- Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. 
 - It's important to look at Reddit in the context of cross-platform operations and comparing e.g., ages of accounts during peaks.
 
-<b><i>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
+<b><i>Note: 
+  <br>These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
 <br>We have four main datasets scraped from Reddit
 <br>1. A dataset with submissions & comments data (2020).
 <br>2. Users Data (from 2006 to 2020).
