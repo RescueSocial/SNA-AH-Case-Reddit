@@ -116,5 +116,5 @@ The percentage of 2021 contributions made by Banned accounts 7.23%
 <br>The percentage % of 2021 submissions made by Banned accounts 11.84 %
 <br>Total banned accounts submissions in 2021 228.
 
-<b>The above are examples from the Reports and provide some guidance of where to find anomalies.</b>
+<b>The above are examples from the Reports and provide some guidance of where to find anomalies. This analysis serves as blueprints for finding red flags of other operations.</b>
 
