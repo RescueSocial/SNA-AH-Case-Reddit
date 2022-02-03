@@ -77,6 +77,8 @@ Newly created accounts in 2018, 2019, 2020, 2021
 <br>Nov 7, 2020
 <br>Feb 7, 2020
 
+<b>Investigating the Submission Text (Submissions with the most comments and replies)	page 34</b>
+
 About 20% of 2020 contributions were made by banned (7.97% →   10235) unverified (13.3% →  17048) .
 <br>About 20% of 2020 submissions were made by banned (14.9% → 1175) unverified (6.48% →  511).
 <br>22.17% of the peak day contributions (04/02/2020) were made by banned (6.77% →  652) unverified (15.4% →   1484).
@@ -89,7 +91,7 @@ About 20% of 2020 contributions were made by banned (7.97% →   10235) unverifi
 <br>"the-speed-of-pain": this user made 2 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 3 seconds!!
 <br>It is obvious, it is a campaign to remove AH from the movie. 
 
-Further Investigate The Most Commented Users In 2021	page 17
+<b>Further Investigate The Most Commented Users In 2021	page 17</b>
 <br>AutoModerator
 <br>CelebBattleVoteBot
 <br>charliedba	
