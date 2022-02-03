@@ -5,10 +5,11 @@
 
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
+- Reddit Reports per year for 2018-2021 and a User Report.
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations.
+- It's important to look at Reddit in the context of cross-platform operations and comparing e.g., ages of accounts during peaks.
 
-Reddit Reports per year for 2018-2021 and a User Report.
-<b><br>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b>
+<b><br><i>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
 <br>We have four main datasets scraped from Reddit
 <br>1. A dataset with submissions & comments data (2020).
 <br>2. Users Data (from 2006 to 2020).
@@ -16,7 +17,7 @@ Reddit Reports per year for 2018-2021 and a User Report.
 <br>4. Daily creation data (# of accounts created per day from 2006 to 2020).
 <br><i>The data Timezone is Epoch/UTC.</i>
 
-Notes: -
+Notes:
 <br>Reddit began to achieve a notable level of popularity in mid-2010, and it has expanded its reach since. It had become “really popular” in early 2013.
 <br>Reddit was launched in June 2005
 <br>The effect of 2020 is obvious, but we can see a small effect from 2021 as the data collected till May of this 2021.
@@ -24,18 +25,19 @@ Notes: -
 Newly created accounts in 2018, 2019, 2020,2021
 <br>As the data collected from 2018 to 2021, the most suspicious accounts are the new ones which are created between 2018 and 2021.
 
+Included Types of Analysis on Reddit:
 - New, Banned, Unverified Accounts Analysis
 - Same and Repeated Texts Analysis
 - NLP, wordclouds, negative texts and accounts
 - Upscore/Downscore Ratios for banned, new, unverified account layers
 - Top contributing accounts and banned accounts
 - Accounts and same texts posting within seconds/multiple subreddits analysis - timings
-- Timelines, peaks, anomalies - comparing statistics
+- Timelines, peaks, anomalies, timings - comparing statistics
 - Submissions, contributions, and accounts analysis
 
 ### <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
 
-<b>### Overview - 2019 Reddit</b>
+#### <b> Overview - 2019 Reddit</b>
 <br>About  19.82% of 2019 contributions were made by banned ( 7.92 % →  1875  ) . unverified (  11.9 % → 2819  ) .
 <br>About 18.3% of 2019 submissions were made by banned ( 3.8% →  527  ) unverified ( 4.52% →  173   ).
 <br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ). unverified ( 13.3% →  427  ).
@@ -54,40 +56,7 @@ The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 co
 <br>Peregrino234(banned) this user contribution got the minimum scores.
 <br>he made 6 different comments in one subreddit r/pussypassdenied in the same day 2019-03-03
 <br>"imsrikant"(banned): this user made 22 submissions with the same text in the same time in 6 different subreddits
-<br>r/Celebhub 		8
-<br>r/gentlemanboners 	7
-<br>r/CelebBattles 		4
-<br>r/Celebs 		2
-<br>r/goddesses 		1
-<br>r/WatchItForThePlot 	1
-<br>in these dates
-<br>2019-05-04 	6
-<br>2019-04-17 	6
-<br>2019-05-06 	3
-<br>2019-04-15 	3
-<br>2019-04-19 	2
-<br>2019-12-28 	1
-<br>2019-04-16 	1
-<br>2019-05-10 	1
-<br>users with highest link karma (unverified)
-<br>'WikiTextBot'
-<br>'agree-with-you'
-<br>'B-VOLLEYBALL-READY'
-<br>agree-with-you(unverified) unverified account with the highest comment karma
-<br>made 2 comments on two different subreddits:
-<br>r/PurplePillDebate 1
-<br>r/JerkOffToCelebs 1
-<br>the time of two comments is: 2018-03-11 00:17:42
-<br>A lot of unverified users has a link karma of 1
-<br>'spudd666', 'SkribbleSkout', 'itsmevictor', 'pragmaticerection', 'IWW4', 'Zozbot', '1Telluride', 'Beaniebabetti', 'Jewels419', 'hackerman991', 'Quilpo', 'keyboardbuddhist'
-<br>ee4m (unverified) has the minimum comment karma
-<br>RoyisOurBoy (unverified) this user has the highest score among the unverified users
-<br>created at 2019-03-02
-<br>made 3 submissions in 2 different subreddits:
-<br>r/entertainment 2
-<br>r/movies 1
-<br>JustMadeThisNameUp (unverified) this user has the minimum score among the unverified users
-<br>Statistics of 2018 and 2019 accounts.
+
 <br>    About 23.79% of 2019 Contributions in 2019 were made by users created in 2018 and 2019.
 <br>2018 (14.2% → 3357).
 <br>2019 (9.59% → 2270). 
@@ -130,7 +99,7 @@ The percentage of 2020 contributions made by Banned accounts    8%
 <br>The percentage % of 2020 submissions made by Banned accounts  14.9%.
 <br>Total banned accounts submissions in 2020   1175.
 
-Top users statistics:
+<b>Top users statistics:</b>
 <br>Armpit-lover, this user made 20 contributions with the same text, 13 of them in one subreddit.
 <br>rodrigohernandez4477 (banned), this user made 25 contributions with the same text in 25
 <br>2020-12-05 (13) in 20 minutes.
@@ -156,18 +125,8 @@ Top users statistics:
 <br>65% of the peak day submissions (04/02/2020) were made by newly created accounts (2018-2020)
 
 
-<b>### Overview - 2021</b>
+#### <b>Overview - 2021</b>
 <br>About 20% of 2021 submissions were made by banned and unverified accounts.
-<br>Stats of unverified accounts
-<br>count    2078.000000
-
-The percentage of 2021 contributions made by Unverified accounts 11.37%
-<br>Total unverified accounts contributions in 2021 2082.
-<br>Total unverified accounts comments in 2021 1939.
-<br>The percentage of 2021 submissions made by Unverified accounts 7.43% 
-<br>About 20% of 2021 submissions were made by banned and unverified accounts.
-<br>Statistics of Banned accounts
-<br>count     1315.000000
 
 The percentage of 2021 contributions made by Banned accounts 7.23% 
 <br>Total banned accounts contributions in 2021 is 1323.
@@ -175,7 +134,7 @@ The percentage of 2021 contributions made by Banned accounts 7.23%
 <br>The percentage % of 2021 submissions made by Banned accounts 11.84 %
 <br>Total banned accounts submissions in 2021 228.
 
-Top users statistics:
+<b>Top users statistics:</b>
 <br>"90police": this user made 17 submissions within only 5 minutes 
 <br>"Truthbetheprejudice": this user made 4 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 30 seconds!!
 <br>"the-speed-of-pain": this user made 2 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 3 seconds!!
@@ -207,7 +166,7 @@ The percentage of 2018 contributions made by Banned accounts  8.38%
 <br>The percentage % of 2018 submissions made by Banned accounts  15.3%.
 <br>Total banned accounts submissions in 2018   305
 
-Top users statistics:
+<b>Top users statistics:</b>
 <br>Fakeposter77 (banned): 
 <br>Made only one submission on 11-11-2018.
 <br>This user's contributions got the highest scores.
@@ -227,6 +186,3 @@ Statistics of 2018 accounts.
 <br>The percentage % of 2018 submissions made by newly created accounts(2018):  11.95
 <br>2018 accounts contributions scores
 <br>count  		6987
-
-
-
