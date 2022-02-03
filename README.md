@@ -7,6 +7,7 @@
 <b>Reddit Analysis</b> - It's important to look at Reddit in the context of cross-platform operations and comparing - e.g., ages of accounts during peaks, statistical differences or similarities, natural language processing, timelines, repeated same texts in quantifications, and amplifications.
 - <b>4 Reddit Reports for Per Year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links</b>
+- Usernames of accounts are interesting as highest upvoted accounts show references to the disinformation operations
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. They get the highest percentage of Upscores (often hidden on Reddit profiles).
 - <i>Full View: In influence operations, postings on platforms are used to confuse workers at social media companies to hide that they're amplified by bots. Reddit (as shown in prior precedence in multi-platform research papers) can be a sandbox to confuse workers and victims. E.g., 'execute 99' and 'good soldiers follow orders' showing within the Dec 2020-Jan 2021 Peaks of YouTube 'Adapt and Survive' Simulation showing tens of thousands of the same texts with 'not a victim.' The statistics show that Reddit bans accounts seeing automation, and that minimum scores can also go to harmful users.</i> - See Research Papers folder
 
