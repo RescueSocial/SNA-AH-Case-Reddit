@@ -48,13 +48,13 @@ Newly created accounts in 2018, 2019, 2020,2021
 <br>Description of contributions scores
 <br>count    	 585
 
-<br>The percentage of 2018 contributions made by Banned accounts  8.38% 
+The percentage of 2018 contributions made by Banned accounts  8.38% 
 <br>Total banned accounts contributions in 2018 is  789.
 <br>Total banned accounts comments in 2018 is  281.
 <br>The percentage % of 2018 submissions made by Banned accounts  15.3%.
 <br>Total banned accounts submissions in 2018   305
 
-<br>Top users statistics:
+Top users statistics:
 <br>Fakeposter77 (banned): 
 <br>Made only one submission on 11-11-2018.
 <br>This user's contributions got the highest scores.
@@ -82,12 +82,12 @@ Statistics of 2018 accounts.
 <br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ). unverified ( 13.3% →  427  ).
 <br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ). unverified accounts (7.5% →  3  ).
 
-<br> The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 contributions.
+The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 contributions.
 <br>Number of contributed users is  769.
 <br>Total banned accounts comments in 2019 is  1348.
 <br>The percentage % of 2019 submissions made by Banned accounts  13.8% with  527 submissions 
 
-<b><br>Top users statistics:</b>
+<b>Top users statistics:</b>
 <br>"3rdPrizeIsYourFired"(banned) these user contributions got the highest scores.
 <br>(Since this user is banned, we have no user information but, we can further investigate his contributions)
 <br>made 6 contributions
@@ -141,7 +141,6 @@ Statistics of 2018 accounts.
     <br>About 17.5% of 2019 Submissions on 2019-03-15 were made by users created in 2018 and 2019.
 <br>2018 (15% → 6).
 <br>2019 (2.5% → 1).
-
 2019 accounts contributions scores
 <br>count    	23630
 
@@ -173,7 +172,7 @@ The percentage of 2020 contributions made by Banned accounts    8%
 <br>The percentage % of 2020 submissions made by Banned accounts  14.9%.
 <br>Total banned accounts submissions in 2020   1175.
 
-<br>Top users statistics:
+Top users statistics:
 <br>Armpit-lover, this user made 20 contributions with the same text, 13 of them in one subreddit.
 <br>rodrigohernandez4477 (banned), this user made 25 contributions with the same text in 25
 <br>2020-12-05 (13) in 20 minutes.
@@ -223,7 +222,8 @@ Top users statistics:
 <br>"Truthbetheprejudice": this user made 4 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 30 seconds!!
 <br>"the-speed-of-pain": this user made 2 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 3 seconds!!
 <br>It is obvious, it is a campaign to remove AH from the movie. 
-<br>Statistics over years.
+
+Statistics over years.
  <br>More than 60% of 2021 Contributions were made by newly created accounts (last 4 years) .
 <br>There are no submissions made (on the peak day of 2021) from 2018, 2019 accounts on that day. Submissions are only made by accounts created in 2020 & 2021
 <br>New accounts Last 4 Years
