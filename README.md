@@ -9,7 +9,7 @@
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations.
 - It's important to look at Reddit in the context of cross-platform operations and comparing e.g., ages of accounts during peaks.
 
-<b><br><i>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
+<b><i>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
 <br>We have four main datasets scraped from Reddit
 <br>1. A dataset with submissions & comments data (2020).
 <br>2. Users Data (from 2006 to 2020).
