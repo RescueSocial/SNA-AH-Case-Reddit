@@ -8,7 +8,7 @@ It's important to look at Reddit in the context of cross-platform operations and
 - 4 Reddit Reports for per year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. They get the highest percentage of Upscores (often hidden on Reddit profiles).
-- <i>In influence operations, postings on platforms are used to confuse workers at social media companies when they're amplified by bots. Reddit (as shown in prior precedence) can be a sandbox to confuse workers. E.g., 'execute 99 and good soldiers follow orders' showing in the YouTube Adapt and Survive Simulation. However, the statistics show that Reddit bans accounts seeing automation, and that minimum scores can also go to harmful users.</i>
+- <i>In influence operations, postings on platforms are used to confuse workers at social media companies to hide that they're amplified by bots. Reddit (as shown in prior precedence in multi-platform research papers) can be a sandbox to confuse workers and victims. E.g., 'execute 99,' 'i did my part' and 'good soldiers follow orders' showing in the YouTube Adapt and Survive Simulation. However, the statistics show that Reddit bans accounts seeing automation, and that minimum scores can also go to harmful users.</i>
 
 <b>Notes from Researchers: 
   <i><br>These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
