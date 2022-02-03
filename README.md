@@ -35,8 +35,6 @@ Newly created accounts in 2018, 2019, 2020,2021
 ## <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
 
 ### <b>Overview - 2018</b>
-<br>About 20% of 2018 contributions were made by banned ( 8.38 % →  586  ) unverified (  11.3 % → 789   ) .
-<br>About 20 % of 2018 submissions were made by banned ( 14.9 % → 1175  ) unverified ( 6.48 % → 511   ).
 <br>28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
 <br>21.45% of submissions of the peak day submissions (03/07/2018 ) were made by banned accounts ( 15.3 % → 305  ). unverified accounts ( 6.15 % → 123  ).
 <br>The percentage of 2018 contributions made by Unverified accounts  11.3%
@@ -44,9 +42,6 @@ Newly created accounts in 2018, 2019, 2020,2021
 <br>Total unverified accounts comments in 2018, 566.
 <br>Number of contributed users is  275.
 <br>The percentage of 2018 submissions made by Unverified accounts 6.15 with 123 submissions.
-<br>Statistics of Banned accounts
-<br>Description of contributions scores
-<br>count    	 585
 
 The percentage of 2018 contributions made by Banned accounts  8.38% 
 <br>Total banned accounts contributions in 2018 is  789.
