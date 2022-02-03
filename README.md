@@ -34,43 +34,6 @@ Newly created accounts in 2018, 2019, 2020,2021
 
 ### <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
 
-### <b>Overview - 2018</b>
-<br>28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
-<br>21.45% of submissions of the peak day submissions (03/07/2018 ) were made by banned accounts ( 15.3 % → 305  ). unverified accounts ( 6.15 % → 123  ).
-<br>The percentage of 2018 contributions made by Unverified accounts  11.3%
-<br>Total unverified accounts contributions in 2018,  789.
-<br>Total unverified accounts comments in 2018, 566.
-<br>Number of contributed users is  275.
-<br>The percentage of 2018 submissions made by Unverified accounts 6.15 with 123 submissions.
-
-The percentage of 2018 contributions made by Banned accounts  8.38% 
-<br>Total banned accounts contributions in 2018 is  789.
-<br>Total banned accounts comments in 2018 is  281.
-<br>The percentage % of 2018 submissions made by Banned accounts  15.3%.
-<br>Total banned accounts submissions in 2018   305
-
-Top users statistics:
-<br>Fakeposter77 (banned): 
-<br>Made only one submission on 11-11-2018.
-<br>This user's contributions got the highest scores.
-<br>Michikoperdue (banned): 
- <br>this user made 3 contributions with the same text in the same time in 3 different subreddits
-<br>Hnglmkrnglbrry (unverified)
- <br>unverified account with the highest score.
-<br>Account Created at: 2017-01-30
-<br>A lot of unverified users has a link karma of 1 → 'nsfwalt_100', 'EverGenius', 'windinmynuts',
-'giantfatdelicousbird', 'epicimagebot', 'IWannaBangBiel', 'IamsWhoIams', 'Tedmonds30', 'juggalobobby1', 'Sonmeisterbank', 'MrGreen098', 'Ragobie0404'
-
-Statistics of 2018 accounts.
-<br>Total contributions in 2018 made by newly created accounts(2018):  875
-<br>The percentage % of 2018 contributions made by newly created accounts(2018):  12.51
-<br>Total comments in 2018 made by newly created accounts(2018):  636
-<br>Total submissions in 2018 made by newly created accounts(2018):  239
-<br>The percentage % of 2018 submissions made by newly created accounts(2018):  11.95
-<br>2018 accounts contributions scores
-<br>count  		6987
-
-
 <b>## Overview - 2019 Reddit</b>
 <br>About  19.82% of 2019 contributions were made by banned ( 7.92 % →  1875  ) . unverified (  11.9 % → 2819  ) .
 <br>About 18.3% of 2019 submissions were made by banned ( 3.8% →  527  ) unverified ( 4.52% →  173   ).
@@ -227,5 +190,43 @@ Statistics over years.
 <br>Total comments in 2021 made by newly created accounts(last 4 years) 8754
 <br>Total submissions in 2021 made by newly created accounts(last 4 years) 1005
 <br>The percentage % of 2021 submissions made by newly created accounts(last 4 years) 52.21.
+
+
+### <b>Overview - 2018</b>
+<br>28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
+<br>21.45% of submissions of the peak day submissions (03/07/2018 ) were made by banned accounts ( 15.3 % → 305  ). unverified accounts ( 6.15 % → 123  ).
+<br>The percentage of 2018 contributions made by Unverified accounts  11.3%
+<br>Total unverified accounts contributions in 2018,  789.
+<br>Total unverified accounts comments in 2018, 566.
+<br>Number of contributed users is  275.
+<br>The percentage of 2018 submissions made by Unverified accounts 6.15 with 123 submissions.
+
+The percentage of 2018 contributions made by Banned accounts  8.38% 
+<br>Total banned accounts contributions in 2018 is  789.
+<br>Total banned accounts comments in 2018 is  281.
+<br>The percentage % of 2018 submissions made by Banned accounts  15.3%.
+<br>Total banned accounts submissions in 2018   305
+
+Top users statistics:
+<br>Fakeposter77 (banned): 
+<br>Made only one submission on 11-11-2018.
+<br>This user's contributions got the highest scores.
+<br>Michikoperdue (banned): 
+ <br>this user made 3 contributions with the same text in the same time in 3 different subreddits
+<br>Hnglmkrnglbrry (unverified)
+ <br>unverified account with the highest score.
+<br>Account Created at: 2017-01-30
+<br>A lot of unverified users has a link karma of 1 → 'nsfwalt_100', 'EverGenius', 'windinmynuts',
+'giantfatdelicousbird', 'epicimagebot', 'IWannaBangBiel', 'IamsWhoIams', 'Tedmonds30', 'juggalobobby1', 'Sonmeisterbank', 'MrGreen098', 'Ragobie0404'
+
+Statistics of 2018 accounts.
+<br>Total contributions in 2018 made by newly created accounts(2018):  875
+<br>The percentage % of 2018 contributions made by newly created accounts(2018):  12.51
+<br>Total comments in 2018 made by newly created accounts(2018):  636
+<br>Total submissions in 2018 made by newly created accounts(2018):  239
+<br>The percentage % of 2018 submissions made by newly created accounts(2018):  11.95
+<br>2018 accounts contributions scores
+<br>count  		6987
+
 
 
