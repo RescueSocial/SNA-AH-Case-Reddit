@@ -4,7 +4,8 @@
 ![alt text](https://cutt.us/qrcoder.php?size=180&qr=https://cutt.us/AH_reddit)
 
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
-5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations.
+- Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
+- 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations.
 
 Reddit Reports per year for 2018-2021 and a User Report.
 <b><br>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b>
@@ -13,7 +14,7 @@ Reddit Reports per year for 2018-2021 and a User Report.
 <br>2. Users Data (from 2006 to 2020).
 <br>3. A merged dataset (submissions & comments data, users data).
 <br>4. Daily creation data (# of accounts created per day from 2006 to 2020).
-<br>The data Timezone is Epoch/UTC.
+<br><i>The data Timezone is Epoch/UTC.</i>
 
 Notes: -
 <br>Reddit began to achieve a notable level of popularity in mid-2010, and it has expanded its reach since. It had become “really popular” in early 2013.
@@ -34,7 +35,7 @@ Newly created accounts in 2018, 2019, 2020,2021
 
 ### <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
 
-<b>## Overview - 2019 Reddit</b>
+<b>### Overview - 2019 Reddit</b>
 <br>About  19.82% of 2019 contributions were made by banned ( 7.92 % →  1875  ) . unverified (  11.9 % → 2819  ) .
 <br>About 18.3% of 2019 submissions were made by banned ( 3.8% →  527  ) unverified ( 4.52% →  173   ).
 <br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ). unverified ( 13.3% →  427  ).
