@@ -102,7 +102,6 @@ Newly created accounts in 2018, 2019, 2020, 2021
 <br>sadwook
 <br>Beatplayer
 
-
 About 20% of 2021 submissions were made by banned and unverified accounts.
 
 <b>Rush Days page 9</b>
@@ -115,4 +114,6 @@ The percentage of 2021 contributions made by Banned accounts 7.23%
 <br>Total banned accounts comments in 2021 is 1095.
 <br>The percentage % of 2021 submissions made by Banned accounts 11.84 %
 <br>Total banned accounts submissions in 2021 228.
+
+<b>The above are examples from the Reports and provide some guidance of where to find anomalies.</b>
 
