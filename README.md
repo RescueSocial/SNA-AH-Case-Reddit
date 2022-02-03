@@ -89,6 +89,19 @@ About 20% of 2020 contributions were made by banned (7.97% →   10235) unverifi
 <br>"the-speed-of-pain": this user made 2 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 3 seconds!!
 <br>It is obvious, it is a campaign to remove AH from the movie. 
 
+Further Investigate The Most Commented Users In 2021	page 17
+<br>AutoModerator
+<br>CelebBattleVoteBot
+<br>charliedba	
+<br>Stanley_Elkind
+<br>It is a regular contribution rate, as the maximum contributions over days are 4.
+<br>LoveAmberHeard42286
+<br>Truthbetheprejudice
+<br>gaul66
+<br>sadwook
+<br>Beatplayer
+
+
 About 20% of 2021 submissions were made by banned and unverified accounts.
 
 <b>Rush Days page 9</b>
