@@ -45,12 +45,6 @@ Included Types of Analysis on Reddit:
 <br>he made 6 different comments in one subreddit r/pussypassdenied in the same day 2019-03-03
 <br>"imsrikant"(banned): this user made 22 submissions with the same text in the same time in 6 different subreddits
 
-The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 contributions.
-<br>Total banned accounts comments in 2019 is  1348.
-<br>The percentage % of 2019 submissions made by Banned accounts  13.8% with  527 submissions
-<br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ) unverified ( 13.3% →  427  ).
-<br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ) unverified accounts (7.5% →  3  ).
-
 #### <b>Overview - 2020</b>
 About 20% of 2020 contributions were made by banned (7.97% →   10235) unverified (13.3% →  17048) .
 <br>About 20% of 2020 submissions were made by banned (14.9% → 1175) unverified (6.48% →  511).
