@@ -7,7 +7,7 @@
 - It's important to look at Reddit in the context of cross-platform operations and comparing - e.g., ages of accounts during peaks, statistical differences or similarities, natural language processing, timelines, repeated same texts in quantifications, and amplifications.
 - 4 Reddit Reports for per year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
-- 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. 
+- 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. They get the highest percentage of Upscores (often hidden on Reddit profiles).
 
 <b>Notes from Researchers: 
   <i><br>These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
@@ -83,16 +83,16 @@ About 20% of 2020 contributions were made by banned (7.97% →   10235) unverifi
 <br>20% of submissions of the peak day submissions (04/02/2020) were made by banned accounts (14.9% →  1175) unverified accounts (6.48% →  511).
 
 #### <b>Overview - 2021</b>
-About 20% of 2021 submissions were made by banned and unverified accounts.
-
 <b>Top users statistics 2021:</b>
 <br>"90police": this user made 17 submissions within only 5 minutes 
 <br>"Truthbetheprejudice": this user made 4 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 30 seconds!!
 <br>"the-speed-of-pain": this user made 2 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 3 seconds!!
 <br>It is obvious, it is a campaign to remove AH from the movie. 
 
-<b>Rush Days</b>
-<br>Apr 17, 2021.
+About 20% of 2021 submissions were made by banned and unverified accounts.
+
+<b>Rush Days page 9</b>
+<br>Apr 17, 2021
 <br>Feb 20, 2021
 <br>Feb 28, 2021
 
