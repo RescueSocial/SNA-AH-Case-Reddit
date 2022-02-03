@@ -32,11 +32,8 @@ Included Types of Analysis on Reddit:
 - Timelines, peaks, anomalies, timings - comparing statistics
 - Submissions, contributions, and accounts analysis
 
-## <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
-#### <b> Overview - 2019 Reddit</b>
-The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 contributions.
-<br>Total banned accounts comments in 2019 is  1348.
-<br>The percentage % of 2019 submissions made by Banned accounts  13.8% with  527 submissions 
+### <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
+#### <b> Overview - 2019 Reddit</b> 
 
 <b>Top users statistics in 2019:</b>
 <br>"3rdPrizeIsYourFired"(banned) these user contributions got the highest scores.
@@ -48,6 +45,9 @@ The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 co
 <br>he made 6 different comments in one subreddit r/pussypassdenied in the same day 2019-03-03
 <br>"imsrikant"(banned): this user made 22 submissions with the same text in the same time in 6 different subreddits
 
+The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 contributions.
+<br>Total banned accounts comments in 2019 is  1348.
+<br>The percentage % of 2019 submissions made by Banned accounts  13.8% with  527 submissions
 <br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ) unverified ( 13.3% →  427  ).
 <br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ) unverified accounts (7.5% →  3  ).
 
