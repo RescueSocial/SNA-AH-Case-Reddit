@@ -83,12 +83,6 @@ About 20% of 2020 contributions were made by banned (7.97% →   10235) unverifi
 <br>Lucaswebb (unverified) 
 <br>This user's contributions got the highest scores.
 
-Statistics over years.
-<br>57.2% of 2020 contributions were made by newly created accounts (2018-2020).
-<br>88% of 2020 submissions were made by newly created accounts (2018-2020).
-<br>35% of the peak day contributions (04/02/2020) were made by newly created accounts (2018-2020).
-<br>65% of the peak day submissions (04/02/2020) were made by newly created accounts (2018-2020)
-
 #### <b>Overview - 2021</b>
 About 20% of 2021 submissions were made by banned and unverified accounts.
 
@@ -103,10 +97,3 @@ The percentage of 2021 contributions made by Banned accounts 7.23%
 <br>"Truthbetheprejudice": this user made 4 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 30 seconds!!
 <br>"the-speed-of-pain": this user made 2 submissions with the same text "Remove Amber Heard from Aquaman 2" within only 3 seconds!!
 <br>It is obvious, it is a campaign to remove AH from the movie. 
-
-### <b>Overview - 2018</b>
-The percentage of 2018 contributions made by Unverified accounts  11.3%
-<br>Total unverified accounts contributions in 2018:  789.
-<br>Total unverified accounts comments in 2018: 566.
-<br>Number of contributed users is  275.
-<br>The percentage of 2018 submissions made by Unverified accounts 6.15 with 123 submissions.
