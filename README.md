@@ -36,10 +36,12 @@ Newly created accounts in 2018, 2019, 2020, 2021
 - Timelines, peaks, anomalies, timings - comparing statistics
 - Submissions, contributions, and accounts analysis
 
+These are high volume operations, so these are merely small examples.
 #### <b>Examples from Overviews of Yearly Reports - <i>See Report PDFs for full reports, graphs, and analysis.</i></b>
 
 <b>Overview - 2019 Reddit</b> 
-<br><b>Top users statistics in 2019:</b>
+
+<b>Top users statistics in 2019:</b>
 <br>"3rdPrizeIsYourFired"(banned) these user contributions got the highest scores.
 <br>(Since this user is banned, we have no user information but, we can further investigate his contributions)
 <br>made 6 contributions
