@@ -41,7 +41,6 @@ Newly created accounts in 2018, 2019, 2020,2021
 <br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ). unverified accounts (7.5% →  3  ).
 
 The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 contributions.
-<br>Number of contributed users is  769.
 <br>Total banned accounts comments in 2019 is  1348.
 <br>The percentage % of 2019 submissions made by Banned accounts  13.8% with  527 submissions 
 
