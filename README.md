@@ -32,7 +32,7 @@ Newly created accounts in 2018, 2019, 2020,2021
 - Timelines, peaks, anomalies - comparing statistics
 - Submissions, contributions, and accounts analysis
 
-## <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
+### <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
 
 ### <b>Overview - 2018</b>
 <br>28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
@@ -193,7 +193,7 @@ Top users statistics:
 <br>65% of the peak day submissions (04/02/2020) were made by newly created accounts (2018-2020)
 
 
-<b>## Overview - 2021</b>
+<b>### Overview - 2021</b>
 <br>About 20% of 2021 submissions were made by banned and unverified accounts.
 <br>Stats of unverified accounts
 <br>count    2078.000000
