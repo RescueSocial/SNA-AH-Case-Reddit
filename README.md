@@ -23,7 +23,7 @@
 Newly created accounts in 2018, 2019, 2020, 2021
 <br>As the data collected from 2018 to 2021, the most suspicious accounts are the new ones which are created between 2018 and 2021.
 
-Included Types of Analysis on Reddit:
+#### <b>Included Types of Analysis on Reddit:</b>
 - New, Banned, Unverified Accounts Analysis
 - Same and Repeated Texts Analysis
 - NLP, wordclouds, negative texts and accounts
