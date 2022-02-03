@@ -79,8 +79,7 @@ Newly created accounts in 2018, 2019, 2020, 2021
 <br>Feb 7, 2020
 
 <b>Investigating the Submission Text (Submissions with the most comments and replies)	page 34</b>
-
-<br>22.17% of the peak day contributions (04/02/2020) were made by banned (6.77% →  652) unverified (15.4% →   1484).
+22.17% of the peak day contributions (04/02/2020) were made by banned (6.77% →  652) unverified (15.4% →   1484).
 <br>20% of submissions of the peak day submissions (04/02/2020) were made by banned accounts (14.9% →  1175) unverified accounts (6.48% →  511).
 
 #### <b>Overview - 2021</b>
