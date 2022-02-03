@@ -4,8 +4,7 @@
 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations.
 
 Reddit Reports per year for 2018-2021 and a User Report.
-<br>Note: This report is a part of Case Study: “Reddit Social Network Analysis Against Influence Operation”
-<br>By analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.
+<b><br>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b>
 <br>We have four main datasets scraped from Reddit
 <br>1. A dataset with submissions & comments data (2020).
 <br>2. Users Data (from 2006 to 2020).
@@ -40,10 +39,6 @@ Newly created accounts in 2018, 2019, 2020,2021
 <br>About 20 % of 2018 submissions were made by banned ( 14.9 % → 1175  ) unverified ( 6.48 % → 511   ).
 <br>28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
 <br>21.45% of submissions of the peak day submissions (03/07/2018 ) were made by banned accounts ( 15.3 % → 305  ). unverified accounts ( 6.15 % → 123  ).
-<br>Statistics of unverified accounts
-<br>Description of contributions scores
-<br>count	 	789
-
 <br>The percentage of 2018 contributions made by Unverified accounts  11.3%
 <br>Total unverified accounts contributions in 2018,  789.
 <br>Total unverified accounts comments in 2018, 566.
@@ -86,23 +81,13 @@ Statistics of 2018 accounts.
 <br>About 18.3% of 2019 submissions were made by banned ( 3.8% →  527  ) unverified ( 4.52% →  173   ).
 <br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ). unverified ( 13.3% →  427  ).
 <br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ). unverified accounts (7.5% →  3  ).
-<br>Statistics of unverified accounts
-<br>Description of contributions scores
-<br>count	 		2809
-
-The percentage of 2019 contributions made by Unverified accounts  11.9% with  2819 contributions.
-<br>Total unverified accounts comments in 2019, 2646.
-<br>Number of contributed users is  1614.
-<br>The percentage of 2019 submissions made by Unverified accounts 4.53% with 173 submissions.
-<br>Statistics of Banned accounts
-<br>Description of contributions scores
-<br>count    	1871
 
 <br> The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 contributions.
 <br>Number of contributed users is  769.
 <br>Total banned accounts comments in 2019 is  1348.
 <br>The percentage % of 2019 submissions made by Banned accounts  13.8% with  527 submissions 
-<br>Top users statistics:
+
+<b><br>Top users statistics:</b>
 <br>"3rdPrizeIsYourFired"(banned) these user contributions got the highest scores.
 <br>(Since this user is banned, we have no user information but, we can further investigate his contributions)
 <br>made 6 contributions
