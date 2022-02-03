@@ -52,12 +52,6 @@ The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 co
 <br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ) unverified accounts (7.5% →  3  ).
 
 #### <b>Overview - 2020</b>
-The percentage of 2020 contributions made by Banned accounts    8% 
-<br>Total banned accounts contributions in 2020 is  10235.
-<br>Total banned accounts comments in 2020 is  3680.
-<br>The percentage % of 2020 submissions made by Banned accounts  14.9%.
-<br>Total banned accounts submissions in 2020   1175.
-
 About 20% of 2020 contributions were made by banned (7.97% →   10235) unverified (13.3% →  17048) .
 <br>About 20% of 2020 submissions were made by banned (14.9% → 1175) unverified (6.48% →  511).
 <br>22.17% of the peak day contributions (04/02/2020) were made by banned (6.77% →  652) unverified (15.4% →   1484).
