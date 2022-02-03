@@ -8,6 +8,7 @@ It's important to look at Reddit in the context of cross-platform operations and
 - 4 Reddit Reports for per year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. They get the highest percentage of Upscores (often hidden on Reddit profiles).
+- <i>In influence operations, postings on platforms are used to confuse workers at social media companies when they're amplified by bots. Reddit (as shown in prior precedence) can be a sandbox to confuse workers. E.g., 'execute 99 and good soldiers follow orders' showing in the YouTube Adapt and Survive Simulation. However, the statistics show that Reddit bans accounts seeing automation, and that minimum scores can also go to harmful users.</i>
 
 <b>Notes from Researchers: 
   <i><br>These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
@@ -79,8 +80,6 @@ Newly created accounts in 2018, 2019, 2020, 2021
 
 <b>Investigating the Submission Text (Submissions with the most comments and replies)	page 34</b>
 
-About 20% of 2020 contributions were made by banned (7.97% →   10235) unverified (13.3% →  17048) .
-<br>About 20% of 2020 submissions were made by banned (14.9% → 1175) unverified (6.48% →  511).
 <br>22.17% of the peak day contributions (04/02/2020) were made by banned (6.77% →  652) unverified (15.4% →   1484).
 <br>20% of submissions of the peak day submissions (04/02/2020) were made by banned accounts (14.9% →  1175) unverified accounts (6.48% →  511).
 
