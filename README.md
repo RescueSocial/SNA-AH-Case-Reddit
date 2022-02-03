@@ -32,7 +32,7 @@ Included Types of Analysis on Reddit:
 - Timelines, peaks, anomalies, timings - comparing statistics
 - Submissions, contributions, and accounts analysis
 
-### <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
+### <b>Some Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
 #### <b> Overview - 2019 Reddit</b> 
 
 <b>Top users statistics in 2019:</b>
