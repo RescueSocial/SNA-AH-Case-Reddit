@@ -5,8 +5,8 @@
 
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
 Reddit Analysis - It's important to look at Reddit in the context of cross-platform operations and comparing - e.g., ages of accounts during peaks, statistical differences or similarities, natural language processing, timelines, repeated same texts in quantifications, and amplifications.
-- 4 Reddit Reports for per year for 2018-2021 and a Users Report.
-- Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
+- <b>4 Reddit Reports for per year for 2018-2021 and a Users Report.
+- Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links</b>
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. They get the highest percentage of Upscores (often hidden on Reddit profiles).
 - <i>In influence operations, postings on platforms are used to confuse workers at social media companies to hide that they're amplified by bots. Reddit (as shown in prior precedence in multi-platform research papers) can be a sandbox to confuse workers and victims. E.g., 'execute 99' and 'good soldiers follow orders' showing in the YouTube 'Adapt and Survive' Simulation showing tens of thousands of the same texts with 'not a victim.' The statistics show that Reddit bans accounts seeing automation, and that minimum scores can also go to harmful users.</i> - See Research Papers folder
 
