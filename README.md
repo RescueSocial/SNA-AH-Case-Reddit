@@ -6,7 +6,7 @@
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Reddit Reports per year for 2018-2021 and a User Report.
-- 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. Reddit does not remove contributions and submissions from banned accounts.
+- 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. 
 - It's important to look at Reddit in the context of cross-platform operations and comparing e.g., ages of accounts during peaks.
 
 <b><i>Note: These reports are a part of Case Study: “Reddit Social Network Analysis Against Influence Operation” by analyzing accounts posting/commenting against a victim of a Social Bot Disinformation/Influence Operation.</b></i>
@@ -18,8 +18,9 @@
 <br><i>The data Timezone is Epoch/UTC.</i>
 
 <i>Notes:</i> Reddit began to achieve a notable level of popularity in mid-2010, and it has expanded its reach since. It had become “really popular” in early 2013. Reddit was launched in June 2005. The effect of 2020 is obvious, but we can see a small effect from 2021 as the data collected till May of this 2021.
+<br><i>Reddit does not remove contributions and submissions from banned accounts.</i>
 
-Newly created accounts in 2018, 2019, 2020,2021
+Newly created accounts in 2018, 2019, 2020, 2021
 <br>As the data collected from 2018 to 2021, the most suspicious accounts are the new ones which are created between 2018 and 2021.
 
 Included Types of Analysis on Reddit:
