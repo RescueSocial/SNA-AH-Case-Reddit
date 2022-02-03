@@ -17,8 +17,7 @@
 <br>4. Daily creation data (# of accounts created per day from 2006 to 2020).
 <br><i>The data Timezone is Epoch/UTC.</i>
 
-Notes:
-<br>Reddit began to achieve a notable level of popularity in mid-2010, and it has expanded its reach since. It had become “really popular” in early 2013. Reddit was launched in June 2005. The effect of 2020 is obvious, but we can see a small effect from 2021 as the data collected till May of this 2021.
+<i>Notes:</i> Reddit began to achieve a notable level of popularity in mid-2010, and it has expanded its reach since. It had become “really popular” in early 2013. Reddit was launched in June 2005. The effect of 2020 is obvious, but we can see a small effect from 2021 as the data collected till May of this 2021.
 
 Newly created accounts in 2018, 2019, 2020,2021
 <br>As the data collected from 2018 to 2021, the most suspicious accounts are the new ones which are created between 2018 and 2021.
@@ -39,10 +38,10 @@ The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 co
 <br>Total banned accounts comments in 2019 is  1348.
 <br>The percentage % of 2019 submissions made by Banned accounts  13.8% with  527 submissions 
 
-<br>About  19.82% of 2019 contributions were made by banned ( 7.92 % →  1875  ) . unverified (  11.9 % → 2819  ) .
-<br>About 18.3% of 2019 submissions were made by banned ( 3.8% →  527  ) unverified ( 4.52% →  173   ).
-<br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ). unverified ( 13.3% →  427  ).
-<br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ). unverified accounts (7.5% →  3  ).
+<br>About  19.82% of 2019 contributions were made by banned ( 7.92 % →  1875  ) unverified (  11.9 % → 2819 ).
+<br>About 18.3% of 2019 submissions were made by banned ( 3.8% →  527  ) unverified ( 4.52% →  173 ).
+<br>18.9 % of the  peak day  ( 2019-03-15 ) were made by banned ( 5.68% →  183  ) unverified ( 13.3% →  427  ).
+<br>10% of submissions of the peak day submissions (2019-03-15 ) were made by banned accounts ( 2.5% →  1  ) unverified accounts (7.5% →  3  ).
 
 <b>Top users statistics in 2019:</b>
 <br>"3rdPrizeIsYourFired"(banned) these user contributions got the highest scores.
@@ -61,10 +60,10 @@ The percentage of 2020 contributions made by Unverified accounts 13.3%
 <br>Number of contributed users is 8481.
 <br>The percentage of 2020 submissions made by Unverified accounts 6.48% with 511 submissions.
 
-<br>About 20% of 2020 contributions were made by banned (7.97% →   10235) . unverified (13.3% →  17048) .
+<br>About 20% of 2020 contributions were made by banned (7.97% →   10235) unverified (13.3% →  17048) .
 <br>About 20% of 2020 submissions were made by banned (14.9% → 1175) unverified (6.48% →  511).
-<br>22.17% of the peak day contributions (04/02/2020) were made by banned (6.77% →  652). unverified (15.4% →   1484).
-<br>20% of submissions of the peak day submissions (04/02/2020) were made by banned accounts (14.9% →  1175). unverified accounts (6.48% →  511).
+<br>22.17% of the peak day contributions (04/02/2020) were made by banned (6.77% →  652) unverified (15.4% →   1484).
+<br>20% of submissions of the peak day submissions (04/02/2020) were made by banned accounts (14.9% →  1175) unverified accounts (6.48% →  511).
 
 The percentage of 2020 contributions made by Banned accounts    8% 
 <br>Total banned accounts contributions in 2020 is  10235.
@@ -128,8 +127,8 @@ Statistics over years.
 <br>28.5 % of the  peak day  ( 03/07/2018  ) were made by banned ( 17.4 % → 33  ). unverified ( 11.1 % →  21  ).
 <br>21.45% of submissions of the peak day submissions (03/07/2018 ) were made by banned accounts ( 15.3 % → 305  ). unverified accounts ( 6.15 % → 123  ).
 <br>The percentage of 2018 contributions made by Unverified accounts  11.3%
-<br>Total unverified accounts contributions in 2018,  789.
-<br>Total unverified accounts comments in 2018, 566.
+<br>Total unverified accounts contributions in 2018:  789.
+<br>Total unverified accounts comments in 2018: 566.
 <br>Number of contributed users is  275.
 <br>The percentage of 2018 submissions made by Unverified accounts 6.15 with 123 submissions.
 
