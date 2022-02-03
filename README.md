@@ -33,7 +33,7 @@ Included Types of Analysis on Reddit:
 - Timelines, peaks, anomalies, timings - comparing statistics
 - Submissions, contributions, and accounts analysis
 
-### <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
+## <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
 
 #### <b> Overview - 2019 Reddit</b>
 <br>About  19.82% of 2019 contributions were made by banned ( 7.92 % →  1875  ) . unverified (  11.9 % → 2819  ) .
@@ -54,21 +54,6 @@ The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 co
 <br>Peregrino234(banned) this user contribution got the minimum scores.
 <br>he made 6 different comments in one subreddit r/pussypassdenied in the same day 2019-03-03
 <br>"imsrikant"(banned): this user made 22 submissions with the same text in the same time in 6 different subreddits
-
-<br>    About 23.79% of 2019 Contributions in 2019 were made by users created in 2018 and 2019.
-<br>2018 (14.2% → 3357).
-<br>2019 (9.59% → 2270). 
-<br>    About 15.91% of 2019 Contributions on 2019-03-15 were made by users created in 2018 and 2019. 2018 (12.4% → 399).
-<br>2019 (3.51% → 113). 
-<br>    About 25.4% of 2019 Submissions in 2019 were made by users created in 2018 and 2019. 
-<br>2018 (14.7% → 562).
-<br>2019 (10.7% → 408). 
-    <br>About 17.5% of 2019 Submissions on 2019-03-15 were made by users created in 2018 and 2019.
-<br>2018 (15% → 6).
-<br>2019 (2.5% → 1).
-2019 accounts contributions scores
-<br>count    	23630
-
 
 
 #### <b>Overview - 2020</b>
