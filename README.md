@@ -34,7 +34,6 @@ Included Types of Analysis on Reddit:
 - Submissions, contributions, and accounts analysis
 
 ## <b>Overview of Yearly Reports - See Report PDFs for full reports, graphs, and analysis.</b>
-
 #### <b> Overview - 2019 Reddit</b>
 <br>About  19.82% of 2019 contributions were made by banned ( 7.92 % →  1875  ) . unverified (  11.9 % → 2819  ) .
 <br>About 18.3% of 2019 submissions were made by banned ( 3.8% →  527  ) unverified ( 4.52% →  173   ).
@@ -55,7 +54,6 @@ The percentage of 2019 contributions made by Banned accounts  7.92% with 1875 co
 <br>he made 6 different comments in one subreddit r/pussypassdenied in the same day 2019-03-03
 <br>"imsrikant"(banned): this user made 22 submissions with the same text in the same time in 6 different subreddits
 
-
 #### <b>Overview - 2020</b>
 <br>About 20% of 2020 contributions were made by banned (7.97% →   10235) . unverified (13.3% →  17048) .
 <br>About 20% of 2020 submissions were made by banned (14.9% → 1175) unverified (6.48% →  511).
@@ -71,10 +69,6 @@ The percentage of 2020 contributions made by Unverified accounts 13.3%
 <br>Number of contributed users is 8481.
 <br>The percentage of 2020 submissions made by Unverified accounts 6.48% with 511 submissions.
 <br>rMemesMods has the least karma score.
-
-Statistics of Banned accounts
-<br>Description of contributions scores
-<br>count		10226
 
 The percentage of 2020 contributions made by Banned accounts    8% 
 <br>Total banned accounts contributions in 2020 is  10235.
