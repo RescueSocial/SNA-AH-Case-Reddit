@@ -5,7 +5,7 @@
 
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
 - It's important to look at Reddit in the context of cross-platform operations and comparing - e.g., ages of accounts during peaks, statistical differences or similarities, natural language processing, timelines, and amplifications.
-- Reddit Reports per year for 2018-2021 and a Users Report.
+- 4 Reddit Reports for per year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. 
 
@@ -73,6 +73,13 @@ About 20% of 2020 contributions were made by banned (7.97% →   10235) unverifi
 <br>This user's contributions got the lowest scores.
 <br>Lucaswebb (unverified) 
 <br>This user's contributions got the highest scores.
+
+<b>Peak Dates	page 13</b>
+Feb 4, 2020
+Feb 8, 2020
+Feb 2, 2020
+Nov 7, 2020
+Feb 7, 2020
 
 #### <b>Overview - 2021</b>
 About 20% of 2021 submissions were made by banned and unverified accounts.
