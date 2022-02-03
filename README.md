@@ -4,7 +4,7 @@
 ![alt text](https://cutt.us/qrcoder.php?size=180&qr=https://cutt.us/AH_reddit)
 
 ## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
-- It's important to look at Reddit in the context of cross-platform operations and comparing - e.g., ages of accounts during peaks, statistical differences or similarities, natural language processing, timelines, repeated same texts in quantifications, and amplifications.
+It's important to look at Reddit in the context of cross-platform operations and comparing - e.g., ages of accounts during peaks, statistical differences or similarities, natural language processing, timelines, repeated same texts in quantifications, and amplifications.
 - 4 Reddit Reports for per year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - 5,025 Banned Reddit Accounts are the highest amount of contributors in years of operations. They get the highest percentage of Upscores (often hidden on Reddit profiles).
@@ -45,7 +45,7 @@ Newly created accounts in 2018, 2019, 2020, 2021
 <br>submission 	5
 <br>comment 	1
 <br>Peregrino234(banned) this user contribution got the minimum scores.
-<br>he made 6 different comments in one subreddit r/pussypassdenied in the same day 2019-03-03
+<br>he made 6 different comments in one subreddit in the same day 2019-03-03
 <br>"imsrikant"(banned): this user made 22 submissions with the same text in the same time in 6 different subreddits
 
 #### <b>Overview - 2020</b>
